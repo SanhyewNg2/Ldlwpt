@@ -1,0 +1,29 @@
+
+
+
+VS Code editor suggestions for 
+
+    Jupyter Notebook and Markdown files
+
+        1. Outline Headings Inconsistance between Notebook and Markdown view
+
+            Only Headings in Jupyter Notebook Outline!
+            No need the icons in the Headings
+
+        2. bash & code snipets view style in a Markdown cell in Jupyter Notebook ... theme???
+
+
+        3. Outline for Preview of Markdown file
+
+
+        4. Hyperlinks to Headings in Jupyter Notebook files
+
+            [:numref:`methods`](5__Class\5.3__Class-Coding-Details.ipynb#methods)
+
+        5. Hyperlinks working when editing Jupyter Notebook Markdown cells
+
+
+        6. Moving cells group by Moving Headings in Outline
+
+
+

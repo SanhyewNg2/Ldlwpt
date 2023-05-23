@@ -1,0 +1,98 @@
+PyTorch Documantation Bookmarks
+
+             — PyTorch Tutorials / Introduction to PyTorch /
+             — PyTorch Tutorials / Learning PyTorch / Deep Learning with PyTorch: A 60 Minute Blitz /
+             — PyTorch Tutorials / Learning PyTorch / Learning PyTorch with Examples 
+
+             — PyTorch Tutorials / Reinforcement Learning /
+
+             — PyTorch Tutorials / Model Optimization /
+             — PyTorch Tutorials / Parallel and Distributed Training /
+             — PyTorch Tutorials / Extending PyTorch /
+
+
+             — PyTorch documentation / Notes /
+             — PyTorch documentation / Python API /
+             — PyTorch documentation / Language Bindings /
+
+
+
+             — PyTorch Tutorials / Image and Video
+ torchvision — TorchVision documentation
+
+             — PyTorch Tutorials / Audio
+  torchaudio — TorchAudio documentation
+
+             — PyTorch Tutorials / Text
+   torchtext — torchtext 0.9.0 documentation 
+
+
+
+             — PyTorch Tutorials / Deploying PyTorch Models in Production /
+             — PyTorch Tutorials / Frontend APIs /
+             — PyTorch Tutorials / Mobile /
+             — PyTorch Tutorials / Code Transforms with FX
+
+
+
+             — PyTorch Tutorials / PyTorch Recipes
+
+
+
+
+Deep Learning Terms
+
+    P0__Intro-AI-ML-DL
+
+        1_AI-Land
+
+        2__ML-Land
+
+        3__DL-Land
+
+
+    P1__DL-Basics
+
+        0__PyTorch-Workstation
+
+            0.1__Intro-PyTorch
+
+            0.2__Workstation
+
+        1__DL-Preliminaries
+
+            1.1__Tensor-Data
+
+            1.2__Tensor-Operations
+
+            1.3__Mechanics-of-Learning
+
+            1.4__Automatic-Differentiation
+
+            1.5__Optimizer
+
+            1.6__Regression
+
+            1.7__Validation
+
+            1.8__Loading-Datasets
+
+            1.9__Classification
+
+
+        2__MLP
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

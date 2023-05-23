@@ -1,0 +1,166 @@
+ PyTorch for Deep Learning with Python Bootcamp
+English | MP4 | AVC 1280×720 | AAC 44KHz 2ch | 17 Hours | 6.27 GB
+
+Learn how to create state of the art neural networks for deep learning with Facebook’s PyTorch Deep Learning library!
+
+Welcome to the best online course for learning about Deep Learning with Python and PyTorch!
+
+PyTorch is an open source deep learning platform that provides a seamless path from research prototyping to production deployment. It is rapidly becoming one of the most popular deep learning frameworks for Python. Deep integration into Python allows popular libraries and packages to be used for easily writing neural network layers in Python. A rich ecosystem of tools and libraries extends PyTorch and supports development in computer vision, NLP and more.
+
+This course focuses on balancing important theory concepts with practical hands-on exercises and projects that let you learn how to apply the concepts in the course to your own data sets! When you enroll in this course you will get access to carefully laid out notebooks that explain concepts in an easy to understand manner, including both code and explanations side by side. You will also get access to our slides that explain theory through easy to understand visualizations.
+
+In this course we will teach you everything you need to know to get started with Deep Learning with Pytorch, including:
+
+    NumPy
+    Pandas
+    Machine Learning Theory
+    Test/Train/Validation Data Splits
+    Model Evaluation – Regression and Classification Tasks
+    Unsupervised Learning Tasks
+    Tensors with PyTorch
+    Neural Network Theory
+    Perceptrons
+    Networks
+    Activation Functions
+    Cost/Loss Functions
+    Backpropagation
+    Gradients
+    Artificial Neural Networks
+    Convolutional Neural Networks
+    Recurrent Neural Networks
+    and much more!
+
+By the end of this course you will be able to create a wide variety of deep learning models to solve your own problems with your own data sets.
+
+So what are you waiting for? Enroll today and experience the true capabilities of Deep Learning with PyTorch! I’ll see you inside the course!
+
+What you’ll learn
+
+    Learn how to use NumPy to format data into arrays
+    Use pandas for data manipulation and cleaning
+    Learn classic machine learning theory principals
+    Use PyTorch Deep Learning Library for image classification
+    Use PyTorch with Recurrent Neural Networks for Sequence Time Series Data
+    Create state of the art Deep Learning models to work with tabular data
+
+Course Overview, Installs, and Setup
+1 COURSE OVERVIEW LECTURE – PLEASE DO NOT SKIP!
+2 Installation and Environment Setup
+
+COURSE OVERVIEW CONFIRMATION CHECK
+DID YOU WATCH THE COURSE OVERVIEW LECTURE
+
+Crash Course NumPy
+3 Introduction to NumPy
+4 NumPy Arrays
+5 NumPy Arrays Part Two
+6 Numpy Index Selection
+7 NumPy Operations
+8 Numpy Exercises
+9 Numpy Exercises – Solutions
+
+Crash Course Pandas
+10 Pandas Overview
+11 Pandas Series
+12 Pandas DataFrames – Part One
+13 Pandas DataFrames – Part Two
+14 GroupBy Operations
+15 Pandas Operations
+16 Data Input and Output
+17 Pandas Exercises
+18 Pandas Exercises – Solutions
+
+PyTorch Basics
+19 PyTorch Basics Introduction
+20 Tensor Basics
+21 Tensor Basics – Part Two
+22 Tensor Operations
+23 Tensor Operations – Part Two
+24 PyTorch Basics – Exercise
+25 PyTorch Basics – Exercise Solutions
+
+Machine Learning Concepts Overview
+26 What is Machine Learning
+27 Supervised Learning
+28 Overfitting
+29 Evaluating Performance – Classification Error Metrics
+30 Evaluating Performance – Regression Error Metrics
+31 Unsupervised Learning
+
+ANN – Artificial Neural Networks
+32 Introduction to ANN Section
+33 Linear Regression with PyTorch – Part Two
+34 DataSets with PyTorch
+35 Basic Pytorch ANN – Part One
+36 Basic PyTorch ANN – Part Two
+37 Basic PyTorch ANN – Part Three
+38 Introduction to Full ANN with PyTorch
+39 Full ANN Code Along – Regression – Part One – Feature Engineering
+40 Full ANN Code Along – Regression – Part 2 – Categorical and Continuous Features
+41 Full ANN Code Along – Regression – Part Three – Tabular Model
+42 Full ANN Code Along – Regression – Part Four – Training and Evaluation
+43 Theory – Perceptron Model
+44 Full ANN Code Along – Classification Example
+45 ANN – Exercise Overview
+46 ANN – Exercise Solutions
+47 Theory – Neural Network
+48 Theory – Activation Functions
+49 Multi-Class Classification
+50 Theory – Cost Functions and Gradient Descent
+51 Theory – BackPropagation
+52 PyTorch Gradients
+53 Linear Regression with PyTorch
+
+CNN – Convolutional Neural Networks
+54 Introduction to CNNs
+55 MNIST Data Revisited
+56 MNIST with CNN – Code Along – Part One
+57 MNIST with CNN – Code Along – Part Two
+58 MNIST with CNN – Code Along – Part Three
+59 CIFAR-10 DataSet with CNN – Code Along – Part One
+60 CIFAR-10 DataSet with CNN – Code Along – Part Two
+61 Loading Real Image Data – Part One
+62 Loading Real Image Data – Part Two
+63 CNN on Custom Images – Part One – Loading Data
+64 CNN on Custom Images – Part Two – Training and Evaluating Model
+65 Understanding the MNIST data set
+66 CNN on Custom Images – Part Three – PreTrained Networks
+67 CNN Exercise
+68 CNN Exercise Solutions
+69 ANN with MNIST – Part One – Data
+70 ANN with MNIST – Part Two – Creating the Network
+71 ANN with MNIST – Part Three – Training
+72 ANN with MNIST – Part Four – Evaluation
+73 Image Filters and Kernels
+74 Convolutional Layers
+75 Pooling Layers
+
+Recurrent Neural Networks
+76 Introduction to Recurrent Neural Networks
+77 RNN on a Time Series – Part Two
+78 RNN Exercise
+79 RNN Exercise – Solutions
+80 RNN Basic Theory
+81 Vanishing Gradients
+82 LSTMS and GRU
+83 RNN Batches Theory
+84 RNN – Creating Batches with Data
+85 Basic RNN – Creating the LSTM Model
+86 Basic RNN – Training and Forecasting
+87 RNN on a Time Series – Part One
+
+Using a GPU with PyTorch and CUDA
+88 Why do we need GPUs
+89 Using GPU for PyTorch
+
+NLP with PyTorch
+90 Introduction to NLP with PyTorch
+91 Encoding Text Data
+92 Generating Training Batches
+93 Creating the LSTM Model
+94 Training the LSTM Model
+95 OUR MODEL FOR DOWNLOAD
+96 Generating Predictions
+
+BONUS SECTION THANK YOU!
+97 BONUS LECTURE
