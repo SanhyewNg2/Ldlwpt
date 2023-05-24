@@ -3,7 +3,7 @@
 
 ## What is this notebook?
 
-This notebook is my recording and refinement on the materials and experiments of deep learning with PyTorch.
+This notebook is my recording and refinement of the materials and experiments on deep learning with PyTorch.
 
 Originally I was an Electro-Optics engineer that focuses on camera systems. At that time, my research area was digital image processing including image enhancement, multi-spectral image fusion and so on. I recognized that deep learning is my continuous research direction, so I get into deep learning using Python. 
 
